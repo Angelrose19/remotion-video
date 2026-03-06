@@ -104,19 +104,13 @@ PROPS=$(cat props/my-props.json)
 npx remotion render Reels --props="$PROPS" --output=out/my-video.mp4 --codec=h264
 ```
 
-## Templates
+## Template
 
-### Reels (recommended)
-
-iPhone mockup with screen recording, green pill word-by-word captions, branded intro/outro. Used by the automated script.
+iPhone mockup with screen recording, green pill word-by-word captions, branded intro/outro.
 
 - **Intro**: Title with staggered word animation, last word highlighted in green pill
 - **Recording**: iPhone mockup (PNG) with video inside, captions below
 - **Outro**: "Travel Animator" branding with App Store callout
-
-### Tutorial (basic)
-
-Full-screen recording with dark pill subtitle-style captions. No mockup.
 
 ## Customization
 
@@ -170,12 +164,6 @@ remotion-video/
 │   │   ├── ReelsOutro.tsx
 │   │   ├── IPhoneMockup.tsx
 │   │   └── schema.ts
-│   ├── tutorial/               # Basic template (full-screen)
-│   │   ├── TutorialComposition.tsx
-│   │   ├── IntroScreen.tsx
-│   │   ├── ScreenRecording.tsx
-│   │   ├── CaptionOverlay.tsx
-│   │   └── OutroScreen.tsx
 │   ├── Root.tsx                # Composition registry
 │   └── index.css               # Font imports
 └── out/                        # Rendered videos
