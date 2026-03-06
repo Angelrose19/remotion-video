@@ -1,0 +1,120 @@
+{
+  "title": "Add Place Labels",
+  "highlightWords": ["Labels"],
+  "backgroundColor": "#4BA3F5",
+  "screenRecording": "place-labels-fixed.mp4",
+  "introDurationInSeconds": 3,
+  "outroDurationInSeconds": 3,
+  "captions": {
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 8.84,
+        "text": "You can plot the starting and ending point using your fingers and drag them",
+        "words": [
+          { "word": "You", "start": 0.0, "end": 0.7 },
+          { "word": "can", "start": 0.7, "end": 0.94 },
+          { "word": "plot", "start": 0.94, "end": 1.28 },
+          { "word": "the", "start": 1.28, "end": 1.94 },
+          { "word": "starting", "start": 1.94, "end": 3.04 },
+          { "word": "and", "start": 3.04, "end": 3.42 },
+          { "word": "ending", "start": 3.42, "end": 4.04 },
+          { "word": "point", "start": 4.04, "end": 4.42 },
+          { "word": "using", "start": 4.42, "end": 5.9 },
+          { "word": "your", "start": 5.9, "end": 6.32 },
+          { "word": "fingers", "start": 6.32, "end": 6.66 },
+          { "word": "and", "start": 6.66, "end": 7.56 },
+          { "word": "drag", "start": 7.86, "end": 8.18 },
+          { "word": "them", "start": 8.18, "end": 8.84 }
+        ]
+      },
+      {
+        "start": 8.84,
+        "end": 17.06,
+        "text": "Add points between the starting and ending destinations. You can add multiple points",
+        "words": [
+          { "word": "Add", "start": 8.84, "end": 10.0 },
+          { "word": "points", "start": 10.0, "end": 11.5 },
+          { "word": "between", "start": 11.5, "end": 11.86 },
+          { "word": "the", "start": 11.86, "end": 12.24 },
+          { "word": "starting", "start": 12.24, "end": 12.7 },
+          { "word": "and", "start": 12.7, "end": 12.92 },
+          { "word": "ending", "start": 12.92, "end": 13.22 },
+          { "word": "destinations.", "start": 13.22, "end": 13.86 },
+          { "word": "You", "start": 14.72, "end": 15.48 },
+          { "word": "can", "start": 15.48, "end": 15.6 },
+          { "word": "add", "start": 15.6, "end": 15.78 },
+          { "word": "multiple", "start": 15.78, "end": 16.12 },
+          { "word": "points.", "start": 16.12, "end": 17.06 }
+        ]
+      },
+      {
+        "start": 17.06,
+        "end": 25.32,
+        "text": "Delete points using the undo button or double tap. Then click Preview",
+        "words": [
+          { "word": "Delete", "start": 17.06, "end": 17.42 },
+          { "word": "points", "start": 17.42, "end": 17.76 },
+          { "word": "using", "start": 17.76, "end": 18.7 },
+          { "word": "the", "start": 18.7, "end": 18.92 },
+          { "word": "undo", "start": 18.92, "end": 19.12 },
+          { "word": "button", "start": 19.12, "end": 19.46 },
+          { "word": "or", "start": 19.46, "end": 19.82 },
+          { "word": "double", "start": 19.82, "end": 20.14 },
+          { "word": "tap.", "start": 20.14, "end": 20.4 },
+          { "word": "Then", "start": 20.4, "end": 21.94 },
+          { "word": "click", "start": 21.94, "end": 23.0 },
+          { "word": "Preview.", "start": 23.0, "end": 25.32 }
+        ]
+      },
+      {
+        "start": 25.32,
+        "end": 33.58,
+        "text": "Select Place Labels so your locations show up. Edit your locations here",
+        "words": [
+          { "word": "Select", "start": 25.32, "end": 26.36 },
+          { "word": "Place", "start": 26.36, "end": 26.84 },
+          { "word": "Labels", "start": 26.84, "end": 27.22 },
+          { "word": "so", "start": 27.22, "end": 28.06 },
+          { "word": "your", "start": 28.06, "end": 28.72 },
+          { "word": "locations", "start": 28.72, "end": 29.82 },
+          { "word": "show", "start": 29.82, "end": 30.54 },
+          { "word": "up.", "start": 30.54, "end": 30.94 },
+          { "word": "Edit", "start": 32.54, "end": 32.92 },
+          { "word": "your", "start": 32.92, "end": 33.08 },
+          { "word": "locations", "start": 33.08, "end": 33.58 }
+        ]
+      },
+      {
+        "start": 33.58,
+        "end": 42.18,
+        "text": "Choose style, colors, and how place labels are displayed",
+        "words": [
+          { "word": "Choose", "start": 36.24, "end": 36.68 },
+          { "word": "style,", "start": 38.14, "end": 38.58 },
+          { "word": "colors,", "start": 38.58, "end": 39.26 },
+          { "word": "and", "start": 39.26, "end": 40.36 },
+          { "word": "how", "start": 40.36, "end": 40.76 },
+          { "word": "place", "start": 41.8, "end": 42.18 }
+        ]
+      },
+      {
+        "start": 42.18,
+        "end": 51.82,
+        "text": "labels are displayed. Adjust the size and export your video",
+        "words": [
+          { "word": "labels", "start": 42.18, "end": 42.48 },
+          { "word": "are", "start": 42.48, "end": 42.72 },
+          { "word": "displayed.", "start": 42.72, "end": 43.06 },
+          { "word": "Adjust", "start": 44.34, "end": 44.94 },
+          { "word": "the", "start": 44.94, "end": 45.36 },
+          { "word": "size", "start": 45.36, "end": 46.18 },
+          { "word": "and", "start": 46.18, "end": 50.44 },
+          { "word": "export", "start": 51.2, "end": 51.56 },
+          { "word": "your", "start": 51.56, "end": 51.82 },
+          { "word": "video.", "start": 51.82, "end": 51.82 }
+        ]
+      }
+    ]
+  }
+}

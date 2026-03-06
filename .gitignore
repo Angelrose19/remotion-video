@@ -5,3 +5,15 @@ dist
 
 # Ignore the output video from Git but not videos you import into src/.
 out
+
+# Screen recordings (too large for git)
+public/*.mp4
+public/*.MP4
+
+# Whisper output
+public/*.json
+
+# Agent/AI tool files
+.agents/
+.claude/
+.codex/
